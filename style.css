@@ -95,7 +95,22 @@ main{
     gap:1rem;
 }
 
+.destaque{
+    font-family: Epilogue;
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
 
+.marrom{
+    color:#A45a49;
+}
+
+.h1{
+    font-family: Montserrat;
+    font-size: 3.5rem;
+    font-weight: 800;
+}
 
 .hero-imagens-container{
     max-width: 45%;
